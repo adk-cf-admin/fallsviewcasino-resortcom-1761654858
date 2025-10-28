@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#1E65A3",
+            "lang-select-color": "#222829",
+            "bg-light": "#1E65A3",
+            "welcome-bonus-bg": "#cfddec",
+            "top-games-hover-fg": "#141414",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#1E65A3",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B33600",
+            "yellow": "#121257",
+            "yellow-button": "#B33600",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#cfddec",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#cfddec",
+            "faq-label": "#cfddec",
+            "bg-footer": "#1E65A3",
+            "copyright": "#e7e7d5",
+            "starColor": "#121257",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Fallsview Casino Resort",
+            "title": "Fallsview Casino Resort | Niagara\u2019s Premier Gaming & Entertainment Destination",
+            "description": "Discover Fallsview Casino Resort in Niagara Falls: over 3,300 slots, 130 table games, luxury hotel rooms, fine dining, bars, live shows, and exclusive Momentum loyalty rewards. Experience gaming and entertainment like never before.",
+            "canonical": "fallsviewcasino-resort.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/229",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/230",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/231"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/232",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Fallsview Casino Resort Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Fallsview Casino Resort \u2013 Gaming, Dining, and Luxury Entertainment",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/233",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/234",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Stunning view of Niagara Falls",
+                "Ontario\u2019s largest casino with thousands of slots",
+                "Luxury hotel featuring panoramic rooms",
+                "Wide selection of restaurants and bars",
+                "World-class shows and concerts annually",
+                "Momentum loyalty program with great rewards",
+                "Convenient location near major attractions"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Fallsview Casino Resort  App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/235",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Fallsview Casino Resort App",
+            "mobileGooglePlayImageTitle": "Fallsview Casino Resort App",
+            "mobileIosImageTitle": "Fallsview Casino Resort App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Fallsview Casino Resort",
+                "description1": "",
+                "items": [
+                    "Slot jackpots up to $1,000,000",
+                    "Progressive machines with growing payouts",
+                    "Momentum bonuses up to $10,000"
+                ],
+                "description2": "Fallsview Casino Resort is Ontario\u2019s premier gaming destination, offering over 3,300 slot machines, 130 table games, and luxurious accommodations overlooking Niagara Falls. Guests enjoy world-class entertainment, fine dining, and exclusive rewards through the Momentum loyalty program\u2014all in a stunning location steps from major attractions.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/236",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": " Luxury, Thrills, and Niagara Falls in One Place",
+                "description": "<p>Fallsview Casino Resort is Canada\u2019s largest gaming destination, perched on a cliff overlooking the iconic Horseshoe Falls. It combines world-class gaming, premium accommodations, and unforgettable entertainment. The casino spans over 200,000 square feet and features more than 3,300 slot machines, 130 table games, and progressive jackpots reaching up to one million dollars. Sports betting kiosks and electronic games are also available, and the venue operates 24\/7 to keep the excitement alive.<\/p>\n<br>\n<p>The resort\u2019s hotel offers 372 rooms and suites with floor-to-ceiling windows showcasing breathtaking views of Niagara Falls. Guests can indulge in spa treatments, enjoy the fitness center and pool, and take advantage of concierge services and complimentary Wi-Fi. Beyond gaming, Fallsview provides access to designer shopping, local wineries, and golf courses, creating a complete luxury experience.<\/p>\n<br>\n<p>Dining options are equally impressive, with over 20 restaurants serving international cuisine and several stylish bars. Popular spots include Infinity Bar, Splash Bar, Overtime Sports Lounge, and Bar Barista, where visitors can savor signature cocktails in a sophisticated atmosphere.<\/p>\n<br>\n<p>Entertainment is a major highlight, featuring two state-of-the-art venues\u2014OLG Stage and Avalon Theatre\u2014that host hundreds of concerts, comedy shows, and live performances each year. This is where gaming meets culture and world-class entertainment.<\/p>\n<br>\n<p>The Momentum loyalty program offers exclusive perks, personalized rewards, and VIP privileges. Members enjoy bonus credits, discounts on accommodations, and priority access to events, with opportunities to win big prizes, including bonuses up to $10,000.<\/p>\n<br>\n<p>Fallsview Casino Resort is more than a casino\u2014it\u2019s a full-scale luxury destination where gaming, fine dining, entertainment, and the natural beauty of Niagara come together for an unforgettable experience.<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFallsview Casino Resort Visitor Rules\n<\/h3>\n\n\n<ul>\n            <li>\u2022 Age Requirement: Guests must be 19 years or older to enter the casino.<\/li>\n            <li>\u2022 ID Verification: A valid government-issued photo ID is required. If you are 21 or under, you must present two forms of identification. Anyone who appears under 30 will be asked for ID.\n<\/li>\n            <li>\u2022 Dress Code: Proper attire is mandatory\u2014shirt and footwear required. Clothing with offensive, obscene, or threatening language is prohibited.\n<\/li>\n<li>\u2022 Entry Restrictions: Individuals who are intoxicated, enrolled in self-exclusion programs, or legally banned are not permitted.\n<\/li>\n            <li>\u2022 Operating Hours: The casino is open 24\/7, including holidays.\n<\/li>\n            <li>\u2022 Data Retention: ID information may be stored for up to 7 days as required by law.\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMomentum Loyalty Program at Fallsview Casino Resort\n<\/h3>\n<p>The Momentum program is Fallsview Casino Resort\u2019s exclusive loyalty system designed to reward frequent players. Membership is free and available to all guests aged 19 and older with valid government-issued photo ID. Once enrolled, you receive a Momentum card that allows you to earn Status Points and Momentum Dollars every time you play slots or table games.<\/p>\n<br>\n<p> Momentum Dollars work like cash\u20141 Momentum Dollar equals $1\u2014and can be redeemed for hotel stays, dining at resort restaurants, shopping at Galleria boutiques, show tickets, and spa services. This flexibility makes it easy to turn your play into premium experiences.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">The program features five tiers:<\/h4>\n\n\n<ul>\n            <li>\u2022 Core: 0\u2013399 Status Points<\/li>\n            <li>\u2022 Ignite: 400\u20132,499\n<\/li>\n            <li>\u2022 Leap: 2,500\u20134,999\n<\/li>\n<li>\u2022 Ascend: 5,000\u201314,999\n<\/li>\n            <li>\u2022 Soar: 15,000+\n\n<\/li>\n        <\/ul>\n<br>\n<p>\n       Higher tiers unlock greater benefits, including accelerated Momentum Dollar earning, complimentary parking, discounted or free hotel rooms, VIP event access, and exclusive dining offers. Members also enjoy monthly Achievement Awards, special promotions like Double Momentum Dollars, and opportunities to earn up to $500 dining credits. Top-tier players can access premium perks and personalized experiences.\n        <\/p>\n        <br>"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Experience Gaming, Entertainment, and Relaxation at Fallsview",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nPromotions\n<\/h3>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Big Prize Promotions<\/h4>\n        <p>\n            For example, the Fall Into Fortune event gives players a chance to win $10,000 in cash. To participate, you must be a Momentum member and activate your entry at a promo kiosk. Winners are selected randomly, and the total prize pool reaches $10,000 CAD.\n        <\/p>\n\n  <h4 style = \"font-weight: bold; font-size: 24px;\">New Member Bonuses<\/h4>\n        <p>\n            When you sign up for the Momentum program, you receive $10 Free Play immediately. This credit can be used on slots or table games as soon as your card is activated.\n        <\/p>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Weekly and Monthly Specials<\/h4>\n     <ul>\n            <li>\u2022 Momentum Multiplier Mania: Every Friday from 10:00 AM to 1:00 PM, players earn double Momentum Dollars on slot play.<\/li>\n            <li>\u2022 Hot Seat Happy Hour: Every 15 minutes, randomly selected players win $150 Free Play, and high-tier members can receive up to $750 Free Play.<\/li>\n           \n        <\/ul>\n <h4 style = \"font-weight: bold; font-size: 24px;\">VIP Tier Rewards<\/h4>\n        <p>\n           Top-tier Soar members enjoy exclusive perks such as complimentary hotel rooms, VIP access to shows, and dining credits up to $500.\n        <\/p>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Special Contests and Giveaways<\/h4>\n        <p>\n           Fallsview regularly hosts themed contests like the Celebrity Chef Dine About Giveaway or ticket giveaways for concerts at OLG Stage. Prizes often include hotel stays, fine dining experiences, and show tickets.\n        <\/p><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games at Fallsview Casino Resort\n<\/h3>\n<p> Fallsview Casino Resort offers one of the most diverse gaming experiences in Canada. The casino floor spans over 200,000 square feet and features more than 3,300 slot machines, including classic reels, video slots, and video poker. Players can choose denominations from as low as one cent up to $100, and progressive jackpots often climb to over $1,000,000. Popular titles include Video Keno, Deuces Wild, and themed video slots with interactive touch-screen features.<\/p>\n<br>\n<p> For table game enthusiasts, Fallsview boasts over 130 tables with favorites like Blackjack (including Free Bet and Bahama Bonus variations), Roulette with single-zero options in VIP areas, Baccarat, Mini Baccarat, and a wide range of poker games such as Mississippi Stud, Three Card Poker, and Ultimate Texas Hold\u2019em. Other exciting options include Pai Gow Poker and Casino War.<\/p>\n<br>\n<p> The casino also offers electronic table games, including Roll to Win Craps, automated roulette, and Sic Bo, combining the thrill of live dealers with modern technology. With such variety, Fallsview delivers an unparalleled gaming experience for both casual players and high rollers.<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Fallsview Casino Resort\n<\/h3>\n\n<p> Fallsview\u2019s slot machines operate in denominations starting as low as $0.01 and going up to $100 per spin, making them accessible for beginners and attractive for those seeking big wins. Progressive slots can deliver jackpots exceeding $1,000,000, adding extra excitement for high-stakes players.<\/p>\n\n<p>Fallsview\u2019s slot machines operate in denominations starting as low as $0.01 and going up to $100 per spin, making them accessible for beginners and attractive for those seeking big wins. Progressive slots can deliver jackpots exceeding $1,000,000, adding extra excitement for high-stakes players.<\/p>\n\n\n\n\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#121257;color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5,000+<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5,000+<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5,000+<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker Variants<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5,000+\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nUnforgettable shows and entertainment at Fallsview Casino Resort\n<\/h3>\n\n<p> Fallsview Casino Resort is not only a premier gaming destination but also a hub for world-class entertainment and special events. The resort hosts a wide variety of shows, concerts, and themed experiences throughout the year, making it a true entertainment complex.<\/p>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Regular Entertainment and Venues<\/h4>\n        <p>\n          Fallsview features two major performance spaces: the OLG Stage, a state-of-the-art theater with 5,000 seats and cutting-edge acoustics, and the Avalon Theatre, an intimate venue with 1,500 seats. These venues welcome global stars and touring acts, offering everything from classic rock and pop concerts to comedy shows and full-scale productions. Past performers have included legends like Rod Stewart, Billy Joel, Carlos Santana, and Sarah McLachlan, as well as top comedians and country music stars.\n        <\/p>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Special Shows and Seasonal Events<\/h4>\n        <p>\n           The entertainment calendar is packed with themed productions and exclusive performances. For example, the Jersey Nights musical celebrates the iconic hits of Frankie Valli and The Four Seasons with multiple shows over a week. Rock fans can enjoy concerts by bands like Lynyrd Skynyrd, marking milestone anniversaries, and solo artists such as Steve Winwood, bringing decades of hits to the stage. Seasonal specials include holiday-themed concerts like Arkells Sleigh The Night, a unique Christmas show blending greatest hits with festive music.\n        <\/p>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Comedy and Variety Acts<\/h4>\n        <p>\n           Fallsview also hosts top-tier comedians such as Jo Koy and Jimmy O. Yang, along with tribute shows like Memories of the King, celebrating Elvis Presley\u2019s legacy. These performances cater to diverse audiences and ensure there\u2019s always something new to experience.\n        <\/p><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants, Hotels, and Leisure at Fallsview Casino Resort\n<\/h3>\n<p> Fallsview Casino Resort is more than just Canada\u2019s largest gaming destination\u2014it\u2019s a complete entertainment and leisure experience overlooking the breathtaking Niagara Falls. From world-class dining and stylish bars to luxurious accommodations and relaxing amenities, this resort offers everything you need for an unforgettable stay.<\/p>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bars and Restaurants<\/h4>\n        <p>\n          Fallsview boasts an impressive culinary scene with over ten dining options. Guests can savor fine dining at Ponte Vecchio, known for its authentic Italian cuisine, or indulge in a sophisticated steakhouse experience at 17 Noir. For casual dining, favorites like Mama Mia\u2019s and Johnny Rockets deliver comfort food classics. The nightlife is equally vibrant, featuring chic bars such as Infinity Bar, Splash Bar, Overtime Sports Lounge, and Bar Barista, where signature cocktails and premium spirits set the tone for an elegant evening.\n        <\/p>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Hotel and Relaxation<\/h4>\n        <p>\n           The resort\u2019s hotel offers 374 luxurious rooms and suites, each designed with floor-to-ceiling windows showcasing panoramic views of Niagara Falls or the city skyline. Guests can unwind at the full-service spa, enjoy the indoor pool, or stay active at the modern fitness center. With 24-hour room service and concierge assistance, every detail is tailored for comfort and convenience.\n        <\/p>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Leisure Beyond Gaming<\/h4>\n        <p>\n           Fallsview Casino Resort is a gateway to more than gaming. Visitors can explore designer boutiques at the Galleria, experience Niagara\u2019s renowned wineries, or tee off at nearby championship golf courses. The resort\u2019s prime location makes it easy to combine casino excitement with natural wonders and cultural attractions, creating a perfect blend of thrill and relaxation.\n        <\/p>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What payment methods are accepted at the casino?",
+                    "answer": "The casino accepts cash, debit cards, and major credit cards. ATMs are available on-site.\n"
+                },
+                {
+                    "title": "Can I use foreign currency?",
+                    "answer": "Yes, foreign currency can be exchanged at the casino\u2019s cashier services.\n"
+                },
+                {
+                    "title": "Is parking available at the casino?",
+                    "answer": "Yes, parking is available on-site. It\u2019s free for VIP Momentum members and paid for others.\n"
+                },
+                {
+                    "title": "What languages are supported at the resort?",
+                    "answer": "English is the primary language, but staff can assist in multiple languages, including French and others.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/237",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Fallsview Casino Resort"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

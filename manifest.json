@@ -1,0 +1,19 @@
+{
+  "name": "Fallsview Casino Resort",
+  "short_name": "Fallsview Casino Resort",
+  "theme_color": "",
+  "background_color": "#1E65A3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761648550-fallsview-logo-cr-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
